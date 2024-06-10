@@ -1,0 +1,20 @@
+repo_name: suleimankaara/project_one
+report_id: 2a49beda0407a4d8a7a6db40e4cf7384
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-10T13:53:15+00:00'
+requested_by: suleimankaara
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/suleimankaara/project_one
+  detection_source: Repo Metadata
